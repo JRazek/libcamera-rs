@@ -1,6 +1,7 @@
 #ifndef __LIBCAMERA_C_PIXEL_FORMAT__
 #define __LIBCAMERA_C_PIXEL_FORMAT__
 
+#include <stdbool.h>
 #include <stddef.h>
 #include <stdint.h>
 
